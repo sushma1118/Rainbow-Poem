@@ -2,4 +2,5 @@ violet
 indigo 
 blue
 green
+yellow
 These are the colors of rainbow
